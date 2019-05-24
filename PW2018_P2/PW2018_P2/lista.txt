@@ -1,0 +1,95 @@
+	<table>
+			<thead>
+				<th>Nome do cliente</th>
+				<th>CPF</th>
+				<th>Telefone</th>
+		</thead>
+		<tr></tr>					
+		<tr>
+			<div class="tab">
+			<td>Jonatas Santana de Carvalho</td>
+			<td>475.013.828-24</td>	
+			<td>(11)2702-5184</td>
+			</div>
+		</tr>
+		<tr></tr>					
+		<tr>
+			<div class="tab">
+			<td>Raissa Gomes Fernandes</td>
+			<td>754.322.269-87</td>	
+			<td>(84)8462-8498</td>
+			</div>
+		</tr>
+		<tr></tr>					
+		<tr>
+			<div class="tab">
+			<td>Carolina Rodrigues Almeida</td>
+			<td>858.390.422-77</td>	
+			<td>(16)4501-6748</td>
+			</div>
+		</tr>
+		<tr></tr>					
+		<tr>
+			<div class="tab">
+			<td>Diogo Azevedo Barros</td>
+			<td>760.774.097-07</td>	
+			<td>(71)3557-7196</td>
+			</div>
+		</tr>
+		<tr></tr>					
+		<tr>
+			<div class="tab">
+			<td>Caua Cunha Ribeiro</td>
+			<td>143.333.991-90</td>	
+			<td>(16)5748-4811</td>
+			</div>
+		</tr>
+		<tr></tr>					
+		<tr>
+			<div class="tab">
+			<td>Sofia Ribeiro Oliveira</td>
+			<td>125.852.355-80</td>	
+			<td>(11)9219-3447</td>
+			</div>
+		</tr>
+		<tr></tr>	
+		<tr>
+			<div class="tab">
+			<td>Tiago Pinto Martins</td>
+			<td>178.138.744-39</td>	
+			<td>(41)6687-7912</td>
+			</div>
+		</tr>
+		<tr></tr>	
+		<tr>
+			<div class="tab">
+			<td>Luis Cavalcanti Cardoso</td>
+			<td>103.715.288-36</td>	
+			<td>(51)9205-2149</td>
+			</div>
+		</tr>
+			<tr></tr>	
+		<tr>
+			<div class="tab">
+			<td>Giovana Martins Araujo</td>
+			<td>469.063.866-70</td>	
+			<td>(83)8394-5054</td>
+			</div>
+		</tr>
+			<tr></tr>	
+		<tr>
+			<div class="tab">
+			<td>Victor Rodrigues Dias</td>
+			<td>255.118.066-09</td>	
+			<td>(21)7936-4998</td>
+			</div>
+		</tr>
+			<tr></tr>	
+		<tr>
+			<div class="tab">
+			<td>Beatriz Souza Martins</td>
+			<td>493.589.632-98</td>	
+			<td>(21)6262-7759</td>
+			</div>
+		</tr>
+		</table>
